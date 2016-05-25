@@ -1,7 +1,7 @@
 # Site
 title:              DhinaPohan
-bio:                "yesterday is history and tomorrow a mystery"
-description:        "Dont go anywhere!, stay here"
+bio:                'yesterday is history and tomorrow a mystery'
+description:        'Dont go anywhere!, stay here'
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/red111.png'
