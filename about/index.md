@@ -15,9 +15,8 @@ date: 2016-03-21
 
 ## Preview
 
-{% capture images %}
-    https://u.ph.edim.co/66c5/99071689_1_140.jpg
-{% endcapture %}
+<img src="https://u.ph.edim.co/66c5/99071689_1_140.jpg" />
+
 
 ## Tentang Saya
 
